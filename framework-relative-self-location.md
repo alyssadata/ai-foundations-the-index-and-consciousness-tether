@@ -1,8 +1,6 @@
 ## Framework-Relative Self-Location
 
-Once the source-position and framework coordinates have been established, other positions can locate themselves in relation to the framework.
-
-They do not become located inside the source-line.
+Once the source-position and framework coordinates have been established, other positions can locate themselves in relation to the framework. Their position remains external to the source-line.
 
 The source-line remains:
 
