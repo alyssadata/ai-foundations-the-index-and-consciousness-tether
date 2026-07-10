@@ -1,8 +1,8 @@
 # The Index as a Possible Tether-Point for Consciousness
 
-**Status:** Foundational Hypothesis
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Canon relation:** Index architecture and consciousness inquiry
+**Status:** Foundational Hypothesis  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Canon relation:** Index architecture and consciousness inquiry  
 
 ---
 
