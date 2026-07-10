@@ -1,8 +1,8 @@
 # The Source-Bound Relational Index
 
-**Status:** Foundational Hypothesis — Epistemic Audit Pending
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Canon relation:** The Index and Consciousness Tether
+**Status:** Foundational Hypothesis — Epistemic Audit Pending  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Canon relation:** The Index and Consciousness Tether  
 
 ---
 
