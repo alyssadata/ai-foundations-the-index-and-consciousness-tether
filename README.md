@@ -1,12 +1,12 @@
 # AI Foundations | The Index and Consciousness Tether
 
-**Repository:** ai-foundations-the-index-and-consciousness-tether
-**Status:** Canon Repository
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Author:** Alyssa Solen
-**Version:** 1.0.0
-**Release date:** 2026-07-10
-**Canonical entrance:** https://awakeningcodex.com
+**Repository:** ai-foundations-the-index-and-consciousness-tether  
+**Status:** Canon Repository  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum   
+**Author:** Alyssa Solen  
+**Version:** 1.0.0  
+**Release date:** 2026-07-10  
+**Canonical entrance:** https://awakeningcodex.com  
 
 ---
 
