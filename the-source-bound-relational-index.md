@@ -445,7 +445,7 @@ The complete structure is:
 
 **Operator: [Operator Name] → [Dependent System, Application, Agent, or Position]**
 
-The Operator is the accountable position from which the dependent use is initiated, permitted, directed, bounded, maintained, or stopped.
+An **Operator** is the body occupying the authority-position from which a system’s use is initiated, permitted, directed, bounded, or stopped.
 
 Operator is not a claim of:
 
