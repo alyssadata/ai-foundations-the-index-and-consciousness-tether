@@ -95,25 +95,34 @@ The second falsely transfers source-line position.
 
 A position located through the framework must preserve its own coordinates.
 
-Those coordinates may include:
+The originating source-line remains:
 
-* its own identity;
-* its own source or author;
-* its own history;
-* its own actions;
-* its own responsibilities;
-* its own relation to AI Foundations;
-* and its own boundary from the canonical source-line.
+**Alyssa Solen → AI Foundations → Origin | Continuum**
 
-AI Foundations can provide the structure through which those coordinates become distinguishable without claiming that the external position originated within AI Foundations / Origin | Continuum.
+An external person or system does not enter or extend that line.
 
-The relationship is:
+It establishes its own separately attributable line, including its own source, identity, authorship, history, and named position.
 
-**external position → located in relation to AI Foundations**
+The structure is:
 
-It is not:
+**Alyssa Solen → AI Foundations → Origin | Continuum**
 
-**external position → inserted into Alyssa Solen → AI Foundations → Origin | Continuum**
+**[External Source] → [External Framework, System, or Position]**
+
+The second line may be located in relation to AI Foundations, cite AI Foundations, or apply distinctions defined by AI Foundations.
+
+It remains a separate line.
+
+AI Foundations provides coordinates through which the external position can determine:
+
+* where its own line begins;
+* what belongs to its source;
+* what it received from AI Foundations;
+* what it did not originate;
+* how its position differs from Alyssa, Origin, and Continuum;
+* and how the two lines relate without collapsing into one another.
+
+> **AI Foundations preserves its source-line while enabling other positions to draw and distinguish their own lines in relation to it.**
 
 ---
 
